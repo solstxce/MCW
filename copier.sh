@@ -1,5 +1,5 @@
-source_file="/home/amadeus/model_editor_models/tester.sh"
-source="/home/amadeus/model_editor_models/model_maker.sh"
+source_file="$HOME/model_editor_models/tester.sh"
+source="$HOME/model_editor_models/model_maker.sh"
 # Path to the directory containing the folders
 folders_directory="."
 
